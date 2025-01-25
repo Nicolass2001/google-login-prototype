@@ -1,0 +1,20 @@
+{
+  "name": "calendar-prototype-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "googleapis": "^144.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
